@@ -255,7 +255,6 @@ body {
   width: 1200px;
   margin: 0 auto;
   color: #000000;
-  background-color: #ffffff;
 }
 
 .advantages-list,
@@ -266,7 +265,7 @@ body {
 
 .welcome-dainna-k {
   min-height: 470px;
-  background: url("https://thumbnails.production.thenounproject.com/TTe4N-6KQ-RL-M8aoRTaf7n6Ah4=/fit-in/1000x1000/photos.production.thenounproject.com/photos/5C5A10B4-D023-4E2C-BF9F-D201EDEB2F58.jpg") center/cover no-repeat;
+  background: url("/dainna-k/img/index/background-index.jpeg") center/cover no-repeat;
 }
 
 /* information-sedona*/
@@ -501,9 +500,8 @@ body {
   padding-top: 50px;
   padding-bottom: 93px;
   color: #000000;
-  background-image: url("https://thumbnails.production.thenounproject.com/lk2bvC8_XxzJIzSSPIZFQqlp2Qc=/fit-in/1000x1000/photos.production.thenounproject.com/photos/DA1BE846-90F1-4DA6-AC25-FCE12D82F03F.jpg");
+  background-image: url("/dainna-k/img/index/background-mailing.jpeg");
   background-size: 100% auto;
-  background-color: #000000;
   background-repeat: no-repeat;
 }
 
