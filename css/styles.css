@@ -265,7 +265,7 @@ body {
 
 .welcome-dainna-k {
   min-height: 470px;
-  background: url("../img/index/background-index.jpeg") center/cover no-repeat;
+  background: url("/img/index/background-index.jpeg") center/cover no-repeat;
 }
 
 /* information-sedona*/
