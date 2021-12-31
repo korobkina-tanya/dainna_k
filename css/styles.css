@@ -265,7 +265,7 @@ body {
 
 .welcome-dainna-k {
   min-height: 470px;
-  background: url("/img/index/background-index.jpeg") center/cover no-repeat;
+  background: url("/img/index/background-index.jpg") center/cover no-repeat;
 }
 
 /* information-sedona*/
@@ -500,7 +500,7 @@ body {
   padding-top: 50px;
   padding-bottom: 93px;
   color: #000000;
-  background-image: url("/dainna-k/img/index/background-mailing.jpeg");
+  background-image: url("/img/index/background-mailing.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
 }
