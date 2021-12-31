@@ -500,7 +500,7 @@ body {
   padding-top: 50px;
   padding-bottom: 93px;
   color: #000000;
-  background-image: url("/img/index/background-mailing.jpg");
+  background-image: url(https://thumbnails.production.thenounproject.com/TTe4N-6KQ-RL-M8aoRTaf7n6Ah4=/fit-in/1000x1000/photos.production.thenounproject.com/photos/5C5A10B4-D023-4E2C-BF9F-D201EDEB2F58.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
 }
@@ -559,7 +559,7 @@ body {
   font-size: 18px;
   line-height: 26px;
   color: rgba(255, 255, 255, 0.4);
-  background-color: #f2f2f2;
+  background-color: #e5e5e5;
   border-radius: 10px 0 0 10px;
   border: none;
   box-sizing: border-box;
