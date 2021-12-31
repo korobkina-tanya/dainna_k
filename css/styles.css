@@ -264,7 +264,7 @@ body {
   text-align: center;
 }
 
-.welcome-sedona {
+.welcome-dainna-k {
   min-height: 470px;
   background: url("/dainna-k/img/index/background-index.jpeg") center/cover no-repeat;
 }
@@ -280,7 +280,7 @@ body {
   text-align: center;
 }
 
-.about-sedona {
+.about-dainna-k {
   width: 1000px;
   margin: 0;
   padding: 0;
@@ -290,7 +290,7 @@ body {
   text-transform: uppercase;
 }
 
-.advantages-sedona {
+.advantages-dainna-k {
   width: 1000px;
   margin: 0;
   padding: 0;
@@ -329,16 +329,16 @@ body {
   box-sizing: border-box;
 }
 
-.advantage-blue {
+.advantage-green {
   background-color: rgba(118, 168, 76, 0.5);
   color: #ffffff;
 }
 
-.advantage-blue-light {
+.advantage-green-light {
   background-color: rgba(118, 168, 76, 0.3);
 }
 
-.advantage-blue-ultralight {
+.advantage-green-ultralight {
   background-color: rgba(118, 168, 76, 0.15);
 }
 
@@ -429,7 +429,7 @@ body {
 
 /* travel-dates */
 
-.interesting-hotels {
+.interesting-grade {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -448,7 +448,7 @@ body {
   text-transform: uppercase;
 }
 
-.hotel-offers {
+.types-property {
   width: 1000px;
   margin: 0;
   padding: 0;
